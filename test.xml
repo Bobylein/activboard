@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Firmware>
+  <download device="DAVINCI" recommended="true" steps="1">
+  <version>1.3</version> 
+  <description language="default" text="ActivWall V1.3 (V5abee7)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Davinci/Davinci.1.3-5abee7_upgrade.tar</file> 
+  <md5>d09edeab7b376bd2e5c99d2747a226d1</md5>
+  </step>
+  </download>
+  <![CDATA[ IR ]]> 
+  <download device="ACTIVBOARD2T" recommended="true" steps="1">
+  <version>1.08 87"</version> 
+  <description language="default" text="ActivBoard 2Touch V1.08 IR (87 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/IRTOUCH_PM_87_V1.08.dfu</file> 
+  <md5>93CE787858D16DCCD6AAB296424CA836</md5> 
+  </step>
+  </download>
+  <![CDATA[ 78" ]]> 
+  <download device="ACTIVBOARD2T" recommended="true" steps="1">
+  <version>3.09 78"</version> 
+  <description language="default" text="ActivBoard 2Touch V3.09 (78 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/ABT78_V3.09.dfu</file> 
+  <md5>D7A268592BC18B9A90F0164C0D0A9F47</md5> 
+  </step>
+  </download>
+  <![CDATA[ 88" ]]> 
+  <download device="ACTIVBOARD2T" recommended="true" steps="1">
+  <version>3.09 88"</version> 
+  <description language="default" text="ActivBoard 2Touch V3.09 (88 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/ABT88_V3.09.dfu</file> 
+  <md5>5C821DE53FAB63F13F4226E37CB72AEC</md5> 
+  </step>
+  </download>
+  <![CDATA[ 78" ]]> 
+  <download device="ACTIVBOARD2T_PICASSO" recommended="true" steps="1">
+  <version>3.09 78"</version> 
+  <description language="default" text="ActivBoard 2Touch V3.09 (78 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/ABT78_V3.09.dfu</file> 
+  <md5>D7A268592BC18B9A90F0164C0D0A9F47</md5>
+  </step>
+  </download>
+  <![CDATA[ 88" ]]> 
+  <download device="ACTIVBOARD2T_PICASSO" recommended="true" steps="1">
+  <version>3.09 88"</version> 
+  <description language="default" text="ActivBoard 2Touch V3.09 (88 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/ABT88_V3.09.dfu</file> 
+  <md5>5C821DE53FAB63F13F4226E37CB72AEC</md5> 
+  </step>
+  </download>
+  <![CDATA[ 78" ]]> 
+  <download device="ACTIVBOARD" recommended="true" steps="1">
+  <version>5.36 78"</version> 
+  <description language="default" text="ActivBoard Touch V5.36 (78 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/PM_M6_88_BT_V5.36(20151113).bin</file> 
+  <md5>6d215eea70678e92ceea81f9b579ac12</md5> 
+  </step>
+  </download>
+  <![CDATA[ 88" ]]> 
+  <download device="ACTIVBOARD" recommended="true" steps="1">
+  <version>5.36 88"</version> 
+  <description language="default" text="ActivBoard Touch V5.36 (88 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/PM_M6_88_BT_V5.36(20151113).bin</file> 
+  <md5>6d215eea70678e92ceea81f9b579ac12</md5> 
+  </step>
+  </download>
+  <![CDATA[ 78" ]]> 
+  <download device="ACTIVBOARD_PICASSO" recommended="true" steps="1">
+  <version>5.36 78"</version> 
+  <description language="default" text="ActivBoard Touch V5.36 (78 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/PM_M6_78_BT_V5.36(20151113).bin</file> 
+  <md5>745d5533d1221fce0845627eff1f3bb3</md5> 
+  </step>
+  </download>
+  <![CDATA[ 88" ]]> 
+  <download device="ACTIVBOARD_PICASSO" recommended="true" steps="1">
+  <version>5.36 88"</version> 
+  <description language="default" text="ActivBoard Touch V5.36 (88 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/PM_M6_88_BT_V5.36(20151113).bin</file> 
+  <md5>6d215eea70678e92ceea81f9b579ac12</md5> 
+  </step>
+  </download>
+  <![CDATA[ 78" ]]> 
+  <download device="ACTIVBOARD_PICASSO_M_78" recommended="true" steps="1">
+  <version>5.36 78"</version> 
+  <description language="default" text="ActivBoard Touch V5.36 (78 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/PM_M6_78_BT_V5.36(20151113).bin</file> 
+  <md5>745d5533d1221fce0845627eff1f3bb3</md5> 
+  </step>
+  </download>
+  <![CDATA[ 88" ]]> 
+  <download device="ACTIVBOARD_PICASSO_M_88" recommended="true" steps="1">
+  <version>5.36 88"</version> 
+  <description language="default" text="ActivBoard Touch V5.36 (88 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/PM_M6_88_BT_V5.36(20151113).bin</file> 
+  <md5>6d215eea70678e92ceea81f9b579ac12</md5> 
+  </step>
+  </download>
+  <![CDATA[ 78" ]]> 
+  <download device="ACTIVBOARD_PICASSO_Q_78" recommended="true" steps="1">
+  <version>6.08 78"</version> 
+  <description language="default" text="ActivBoard Touch V6.08 (78 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/PM_Q6_78_BT_V6.08(20160225).bin</file> 
+  <md5>13ef1c0e0e422069cb8e1a196baf4ecc</md5> 
+  </step>
+  </download>
+  <![CDATA[ 88" ]]> 
+  <download device="ACTIVBOARD_PICASSO_Q_88" recommended="true" steps="1">
+  <version>6.08 88"</version> 
+  <description language="default" text="ActivBoard Touch V6.08 (88 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ABTouch/PM_Q6_88_BT_V6.08(20160225).bin</file> 
+  <md5>a1a8daeafce10a05c1c09496ea0d53c7</md5> 
+  </step>
+  </download>
+  <![CDATA[ 55" ]]> 
+  <download device="ACTIVPANEL" recommended="true" steps="1">
+  <version>5.36 55"</version> 
+  <description language="default" text="ActivPanel (55 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_55_BT_V5.36(20151112).bin</file> 
+  <md5>7a4aa212d0b6fc764a7ab8705be7e58d</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 65" ]]> 
+  <download device="ACTIVPANEL" recommended="true" steps="1">
+  <version>5.36 65"</version> 
+  <description language="default" text="ActivPanel (65 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_65_BT_V5.36(20151112).bin</file> 
+  <md5>de200fc7269adf3e05d6179b8bf26253</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 70" ]]> 
+  <download device="ACTIVPANEL" recommended="true" steps="1">
+  <version>5.36 70"</version> 
+  <description language="default" text="ActivPanel (70 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_70_BT_V5.36(20151112).bin</file> 
+  <md5>914226bbdea15da48cc2bcc7befa7599</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 84" ]]> 
+  <download device="ACTIVPANEL" recommended="true" steps="1">
+  <version>5.36 84"</version> 
+  <description language="default" text="ActivPanel (84 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_84_BT_V5.36(20151112).bin</file> 
+  <md5>1accd57036b395aaa169e6ea327b3c4a</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 55" ]]> 
+  <download device="ACTIVPANEL_PICASSO" recommended="true" steps="1">
+  <version>5.36 55"</version> 
+  <description language="default" text="ActivPanel (55 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_55_BT_V5.36(20151112).bin</file> 
+  <md5>7a4aa212d0b6fc764a7ab8705be7e58d</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 65" ]]> 
+  <download device="ACTIVPANEL_PICASSO" recommended="true" steps="1">
+  <version>5.36 65"</version> 
+  <description language="default" text="ActivPanel (65 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_65_BT_V5.36(20151112).bin</file> 
+  <md5>de200fc7269adf3e05d6179b8bf26253</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 70" ]]> 
+  <download device="ACTIVPANEL_PICASSO" recommended="true" steps="1">
+  <version>5.36 70"</version> 
+  <description language="default" text="ActivPanel Touch V5.36 (70 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_70_BT_V5.36(20151112).bin</file> 
+  <md5>914226bbdea15da48cc2bcc7befa7599</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 84" ]]> 
+  <download device="ACTIVPANEL_PICASSO" recommended="true" steps="1">
+  <version>5.36 84"</version> 
+  <description language="default" text="ActivPanel (84 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_84_BT_V5.36(20151112).bin</file> 
+  <md5>1accd57036b395aaa169e6ea327b3c4a</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 55" ]]> 
+  <download device="ACTIVPANEL_PICASSO_M_55" recommended="true" steps="1">
+  <version>5.36 55"</version> 
+  <description language="default" text="ActivPanel (55 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_55_BT_V5.36(20151112).bin</file> 
+  <md5>7a4aa212d0b6fc764a7ab8705be7e58d</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 65" ]]> 
+  <download device="ACTIVPANEL_PICASSO_M_65" recommended="true" steps="1">
+  <version>5.36 65"</version> 
+  <description language="default" text="ActivPanel (65 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_65_BT_V5.36(20151112).bin</file> 
+  <md5>de200fc7269adf3e05d6179b8bf26253</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 70" ]]> 
+  <download device="ACTIVPANEL_PICASSO_M_70" recommended="true" steps="1">
+  <version>5.36 70"</version> 
+  <description language="default" text="ActivPanel (70 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_70_BT_V5.36(20151112).bin</file> 
+  <md5>914226bbdea15da48cc2bcc7befa7599</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 84" ]]> 
+  <download device="ACTIVPANEL_PICASSO_M_84" recommended="true" steps="1">
+  <version>5.36 84"</version> 
+  <description language="default" text="ActivPanel (84 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/PM_M10_84_BT_V5.36(20151112).bin</file> 
+  <md5>1accd57036b395aaa169e6ea327b3c4a</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 55" ]]> 
+  <download device="ACTIVPANEL_PICASSO_Q_55" recommended="true" steps="1">
+  <version>6.16 55"</version> 
+  <description language="default" text="ActivPanel (55 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_Q10_55_V6.16(20160401).bin</file> 
+  <md5>f048a17c3725c96b2749437009b6fecb</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 65" ]]> 
+  <download device="ACTIVPANEL_PICASSO_Q_65" recommended="true" steps="1">
+  <version>6.16 65"</version> 
+  <description language="default" text="ActivPanel (65 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_Q10_65_V6.16(20160401).bin</file> 
+  <md5>b0b0a88d041b705fa31b2d3394c57bcb</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 75" ]]> 
+  <download device="ACTIVPANEL_PICASSO_Q_75" recommended="true" steps="1">
+  <version>6.16 75"</version> 
+  <description language="default" text="ActivPanel (75 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_Q10_75_V6.16(20160401).bin</file> 
+  <md5>f549e1dec3daa6219cf276e9d414da00</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 84" ]]> 
+  <download device="ACTIVPANEL_PICASSO_Q_84" recommended="true" steps="1">
+  <version>6.16 84"</version> 
+  <description language="default" text="ActivPanel (84 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_Q10_84_V6.16(20160401).bin</file> 
+  <md5>54828fe6da2c1650ac2213491165a4df</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 55" ]]> 
+  <download device="ACTIVPANEL_PICASSO_R_55" recommended="true" steps="1">
+  <version>6.17 55"</version> 
+  <description language="default" text="ActivPanel (55 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_R10_55_V6.17(20160416).bin</file> 
+  <md5>86bb926913a62c7c3d3cde91dcfdf492</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 65" ]]> 
+  <download device="ACTIVPANEL_PICASSO_R_65" recommended="true" steps="1">
+  <version>6.17 65"</version> 
+  <description language="default" text="ActivPanel (65 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_R10_65_V6.17(20160416).bin</file> 
+  <md5>13555f84edc530f5538f5984d18bb504</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 75" ]]> 
+  <download device="ACTIVPANEL_PICASSO_R_75" recommended="true" steps="1">
+  <version>6.17 75"</version> 
+  <description language="default" text="ActivPanel (75 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_R10_75_V6.17(20160416).bin</file> 
+  <md5>dbbfb78ce569c764f12de61fa6e8d980</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 84" ]]> 
+  <download device="ACTIVPANEL_PICASSO_R_84" recommended="true" steps="1">
+  <version>6.17 84"</version> 
+  <description language="default" text="ActivPanel (84 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_R10_84_V6.17(20160416).bin</file> 
+  <md5>31ff5e86ce0aab5329888450ccd98905</md5> 
+  </step>
+  </download>
+  <![CDATA[ 65" ]]> 
+  <download device="ACTIVPANEL_PICASSO_R_A_65" recommended="true" steps="1">
+  <version>6.17 65"</version> 
+  <description language="default" text="ActivPanel (65 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_R10_65_A_V6.17.56(20160708).bin</file> 
+  <md5>0</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 75" ]]> 
+  <download device="ACTIVPANEL_PICASSO_R_A_75" recommended="true" steps="1">
+  <version>6.17 75"</version> 
+  <description language="default" text="ActivPanel (75 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_R10_75_A_V6.17.56(20160708).bin</file> 
+  <md5>c22840c80f14bfee3a1448c611bdcd23</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 84" ]]> 
+  <download device="ACTIVPANEL_PICASSO_R_A_84" recommended="true" steps="1">
+  <version>6.17 84"</version> 
+  <description language="default" text="ActivPanel (84 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/KG_R10_84_A_V6.17.56(20160708).bin</file> 
+  <md5>0</md5> 
+  </step>
+  </download>  
+  <![CDATA[ 65" ]]> 
+  <download device="ACTIVPANEL_HH_R_65" recommended="true" steps="1">
+  <version>3.00 65"</version> 
+  <description language="default" text="ActivPanel (65 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/HHPM_R10_65_V3.00.37(20170214).bin</file> 
+  <md5>767ab89361ad4c757ac7f88b0d0464a9</md5> 
+  </step>
+  </download>
+  <![CDATA[ 65" ]]> 
+  <download device="ACTIVPANEL_HH_M_65" recommended="true" steps="1">
+  <version>3.00 65"</version> 
+  <description language="default" text="ActivPanel (65 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/HHPM_M10_65_V3.00.37(20170210).bin</file> 
+  <md5>4bd3a862aaf267544538880774956bc2</md5> 
+  </step>
+  </download>
+  <![CDATA[ 75" ]]> 
+  <download device="ACTIVPANEL_HH_Q_75" recommended="true" steps="1">
+  <version>6.06 75"</version> 
+  <description language="default" text="ActivPanel (75 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/APTouch/HHPM_Q10_75_U_V6.06.4(20170927).bin</file> 
+  <md5>eb42397a2a2b6068bc30fc2ab3c518dc</md5> 
+  </step>
+  </download>
+  <download device="V5" recommended="true" steps="1">
+  <version>5.13.0</version> 
+  <description language="default" text="ActivHub 2.4 Firmware Version 5.13 Build 0"/> 
+  <description language="fr" text="Micrologiciel Pour ActivHub 2.4 Version 5.13 Build 0"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ActivHub/V5_13_bld_0000.bin</file> 
+  <md5>6e072f092b7d99590171cff420b8e37f</md5> 
+  </step>
+  </download>
+  <!--  6 = vote 
+  --> 
+  <!--  9 = expression 
+  --> 
+  <!--  12 = expression V2 
+  --> 
+  <download device="RF9" recommended="true" steps="1">
+  <requires>5.10.2</requires> 
+  <description language="default">
+  <![CDATA[ Expression Kernel Version 2.<br><i>If the ActivExpression firmware is "9.1 Build xx" or earlier, you must first upgrade<br>using this file; once complete, select the firmware you require from the list below</i>.
+  ]]> 
+  </description>
+  <version>2.0.Kernel</version> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/expression/KernelUpgrader_V1_to_V2.rf</file> 
+  <md5>f1128e3de7b394df2c0ade52a6e88779</md5> 
+  </step>
+  </download>
+  <download device="RF9" recommended="true" steps="1">
+  <requires>5.11.4</requires> 
+  <description language="default">
+  <![CDATA[ US and European (except Nordic and Cyrillic) Expression Firmware Version 9.02 Build 41.
+  ]]> 
+  </description>
+  <version>9.2.41</version> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/expression/ActivExpression_AMEU_V9.02_41.rf</file> 
+  <md5>8ab355e5b3e1189f59b43a7a527d795b</md5> 
+  </step>
+  </download>
+  <download device="RF9" recommended="true" steps="1">
+  <requires>5.11.4</requires> 
+  <description language="default">
+  <![CDATA[ Nordic Expression Firmware Version 9.02 Build 41.
+  ]]> 
+  </description>
+  <version>9.2.41</version> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/expression/ActivExpression_ND_V9.02_41.rf</file> 
+  <md5>cee11c9ea2eb74300bef8317e0ea82e6</md5> 
+  </step>
+  </download>
+  <download device="RF9" recommended="true" steps="1">
+  <requires>5.11.4</requires> 
+  <description language="default">
+  <![CDATA[ Cyrillic Expression Firmware Version 9.02 Build 41.
+  ]]> 
+  </description>
+  <version>9.2.41</version> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/expression/ActivExpression_CY_V9.02_41.rf</file> 
+  <md5>67aea644b98b8400cba363b6ecf33ad1</md5> 
+  </step>
+  </download>
+  <download device="RF9" recommended="true" steps="1">
+  <requires>5.11.4</requires> 
+  <description language="default">
+  <![CDATA[ Arabic Expression Firmware Version 9.02 Build 41.
+  ]]> 
+  </description>
+  <version>9.2.41</version> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/expression/ActivExpression_AR_V9.02_41.rf</file> 
+  <md5>5e7af447b7c0648bc21c2e4a6f2550e3</md5> 
+  </step>
+  </download>
+  <download device="RF12" recommended="true" steps="1">
+  <requires>5.13.0</requires> 
+  <description language="default">
+  <![CDATA[ ActivExpression v2 Firmware Version 12.05 Build 1.
+  ]]> 
+  </description>
+  <description language="fr">
+  <![CDATA[ Micrologiciel Pour ActivExpression v2 Version 12.05.1.
+  ]]> 
+  </description>
+  <version>12.5.1</version> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/expression/ActivExpression2_V12.05_01.rf</file> 
+  <md5>f1798d526b441d547a2999d3e4a13161</md5> 
+  </step>
+  </download>
+  <download device="RF12" recommended="true" steps="1">
+  <requires>5.13.0</requires> 
+  <description language="default">
+  <![CDATA[ ActivExpression v2 Firmware Version 12.06 Build 2.
+  ]]> 
+  </description>
+  <version>12.6.2</version> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/expression/ActivExpression2_V12.06_02.rf</file> 
+  <md5>a02dbacee5289e2a853d712712b19016</md5> 
+  </step>
+  </download>
+  <download device="V8.0" recommended="false" steps="1">
+  <version>Your Driver is Out Of Date: Upgrade It And try Again.</version> 
+  <description language="default" text="ActivBoard 300 Firmware"/> 
+  <description language="fr" text="Micrologiciel Pour ActivBoard 300"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/V8</file> 
+  <md5>0</md5> 
+  </step>
+  </download>
+  <download device="V8.1" recommended="false" steps="1">
+  <version>Your Driver is Out Of Date: Upgrade It And try Again.</version> 
+  <description language="default" text="ActivBoard 500 Firmware"/> 
+  <description language="fr" text="Micrologiciel Pour ActivBoard 500"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/V8</file> 
+  <md5>0</md5> 
+  </step>
+  </download>
+
+  <download device="V8.ac3" recommended="true" steps="1">
+  <version>8.12.4</version> 
+  <description language="default" text="ActivBoard 300 Firmware - Standard''"/> 
+  <description language="fr" text="Micrologiciel Pour ActivBoard 300 - Standard"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ab300/ac3-v812-4-hid.bin</file> 
+  <md5>0463ed04340fa99f40a62c168da736d9</md5> 
+  </step>
+  </download>
+  <download device="V8.78a" recommended="true" steps="1">
+  <version>8.12.4</version> 
+  <description language="default" text="ActivBoard 300 Firmware - 78''"/> 
+  <description language="fr" text="Micrologiciel Pour ActivBoard 300 - 78''"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ab300/ac3-v812-4-hid.bin</file> 
+  <md5>0463ed04340fa99f40a62c168da736d9</md5> 
+  </step>
+  </download>
+
+
+  <download device="V8.87m" recommended="true" steps="1">
+  <version>8.65.1</version> 
+  <description language="default" text="ActivBoard 500 Firmware - 87''"/> 
+  <description language="fr" text="Micrologiciel Pour ActivBoard 500 - 87''"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ab500/AB587-v865-hid.bin</file> 
+  <md5>62EB0B65CEB06947928BD3460EEA6145</md5> 
+  </step>
+  </download>
+  <download device="V8.95m" recommended="true" steps="1">
+  <version>8.75.1</version> 
+  <description language="default" text="ActivBoard 500 Firmware - 95''"/> 
+  <description language="fr" text="Micrologiciel Pour ActivBoard 500 - 95''"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ab500/AB595-v875-hid.bin</file> 
+  <md5>A97A38E04F327B67F3FBFD2AB35304FB</md5> 
+  </step>
+  </download>
+  <download device="V8.78m" recommended="true" steps="1">
+  <version>8.85.2</version> 
+  <description language="default" text="ActivBoard 500 Firmware - 78''"/> 
+  <description language="fr" text="Micrologiciel Pour ActivBoard 500 - 78''"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/ab500/AB578-v885-2-hid.bin</file> 
+  <md5>F20F491C9A9E85B784CB40F69DDAE8E0</md5> 
+  </step>
+  </download> 
+
+  <download device="TIMELINK_BOARD" recommended="true" steps="1">
+  <version>6.3.44.28 84"</version> 
+  <description language="default" text="ActivBoard V6.3.44.28 (84 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivBoard_10T_84_v6.3.44.28.zip</file> 
+  <md5>2a0819c7b1fd342c577fc2eb6ac92ec2</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_BOARD" recommended="true" steps="1">
+  <version>6.3.50.28 78"</version> 
+  <description language="default" text="ActivBoard V6.3.50.28 (78 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivBoard_10T_78_v6.3.50.28.zip</file> 
+  <md5>9848a470d495428b7e6e11e101617c20</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_BOARD" recommended="true" steps="1">
+  <version>6.3.50.28 88"</version> 
+  <description language="default" text="ActivBoard V6.3.50.28 (88 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivBoard_10T_88_v6.3.50.28.zip</file> 
+  <md5>e22fd3030ba78c691f8f2813ec6313d5</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_BOARD_82" recommended="true" steps="1">
+  <version>6.3.44.28 82"</version> 
+  <description language="default" text="ActivBoard V6.3.44.28 (82 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivBoard_10T_82_v6.3.44.28.zip</file> 
+  <md5>1dc919ab100bf90b2e0d6bff033f94aa</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_BOARD_84" recommended="true" steps="1">
+  <version>6.3.44.28 84"</version> 
+  <description language="default" text="ActivBoard V6.3.44.28 (84 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivBoard_10T_84_v6.3.44.28.zip</file> 
+  <md5>2a0819c7b1fd342c577fc2eb6ac92ec2</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_BOARD_PICASSO" recommended="true" steps="1">
+  <version>6.3.50.28 78"</version> 
+  <description language="default" text="ActivBoard V6.3.50.28 (78 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivBoard_10T_78_v6.3.50.28.zip</file> 
+  <md5>9848a470d495428b7e6e11e101617c20</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_BOARD_PICASSO" recommended="true" steps="1">
+  <version>6.3.50.28 88"</version> 
+  <description language="default" text="ActivBoard V6.3.50.28 (88 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivBoard_10T_88_v6.3.50.28.zip</file> 
+  <md5>e22fd3030ba78c691f8f2813ec6313d5</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_BOARD_PICASSO_78" recommended="true" steps="1">
+  <version>6.3.50.28 78"</version> 
+  <description language="default" text="ActivBoard V6.3.50.28 (78 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivBoard_10T_78_v6.3.50.28.zip</file> 
+  <md5>9848a470d495428b7e6e11e101617c20</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_BOARD_PICASSO_88" recommended="true" steps="1">
+  <version>6.3.50.28 88"</version> 
+  <description language="default" text="ActivBoard V6.3.50.28 (88 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivBoard_10T_88_v6.3.50.28.zip</file> 
+  <md5>e22fd3030ba78c691f8f2813ec6313d5</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_PANEL" recommended="true" steps="1">
+  <version>6.3.50.28 70"</version> 
+  <description language="default" text="ActivPanel (70 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivPanel_10T_70_v6.3.50.28.zip</file> 
+  <md5>07b712e061a8f5e5bc59838c00a28343</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_PANEL" recommended="true" steps="1">
+  <version>6.3.50.28 80"</version> 
+  <description language="default" text="ActivPanel (80 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivPanel_10T_80_v6.3.50.28.zip</file> 
+  <md5>a5350646e42d8712adb8b89bdaddef6b</md5>
+  </step>
+  </download>  <download device="TIMELINK_PANEL_70" recommended="true" steps="1">
+  <version>6.3.50.28 70"</version> 
+  <description language="default" text="ActivPanel (70 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivPanel_10T_70_v6.3.50.28.zip</file> 
+  <md5>07b712e061a8f5e5bc59838c00a28343</md5>
+  </step>
+  </download>
+  <download device="TIMELINK_PANEL_80" recommended="true" steps="1">
+  <version>6.3.50.28 80"</version> 
+  <description language="default" text="ActivPanel (80 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/Timelink/ActivPanel_10T_80_v6.3.50.28.zip</file> 
+  <md5>a5350646e42d8712adb8b89bdaddef6b</md5>
+  </step>
+  </download>
+  <download device="FLATFROG_PANEL_FIGHTER_70" recommended="true" steps="1">
+  <version>1.0.4809 70"</version> 
+  <description language="default" text="ActivPanel (70 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/FlatFrog/PS-TK70-003c-v4809.dfu</file> 
+  <md5>d37051fc7dc2eb360e470193d058ac63</md5>
+  </step>
+  </download>
+  <download device="FLATFROG_PANEL_FIGHTER_75" recommended="true" steps="1">
+  <version>1.0.3521 75"</version> 
+  <description language="default" text="ActivPanel (75 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/FlatFrog/PS-TK75-0046-v3521.dfu</file> 
+  <md5>25d84a0d65a08215250228656f8c4adf</md5>
+  </step>
+  </download>
+  <download device="FLATFROG_PANEL_PREMIUM_75" recommended="true" steps="1">
+  <version>1.0.3521 75"</version> 
+  <description language="default" text="ActivPanel (75 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/FlatFrog/PS-TK75-0047-v3521.dfu</file> 
+  <md5>56c6e28bca5ff2e322334ac5ab095599</md5>
+  </step>
+  </download>
+  <download device="FLATFROG_PANEL_PREMIUM_86" recommended="true" steps="1">
+  <version>1.0.3521 86"</version> 
+  <description language="default" text="ActivPanel (86 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/FlatFrog/PS-TK86-0048-v3521.dfu</file> 
+  <md5>259965194fc858e89e8eb47134c9040a</md5>
+  </step>
+  </download>
+  <download device="AP6_F65_4K" recommended="true" steps="1">
+  <version>1.0.4809 65"</version> 
+  <description language="default" text="ActivPanel (65 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/FlatFrog/PS-TK65-0063-v4809.dfu</file> 
+  <md5>a1b992d9a6f8a149fa02fba6b89b5ba0</md5>
+  </step>
+  </download>
+  <download device="AP6_F75_4K" recommended="true" steps="1">
+  <version>1.0.4809 75"</version> 
+  <description language="default" text="ActivPanel (75 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/FlatFrog/PS-TK75-0064-v4809.dfu</file> 
+  <md5>529496ef55be7b9dd0d0d4f3d46fc8c5</md5>
+  </step>
+  </download>
+  <download device="AP6_P86_4K" recommended="true" steps="1">
+  <version>1.0.4906 86"</version> 
+  <description language="default" text="ActivPanel (86 inch)"/> 
+  <step number="1">
+  <file>http://www.activsoftware.co.uk/update/Driver/firmware/FlatFrog/PS-TK86-0065-v4906.dfu</file> 
+  <md5>e92d9381b3e7ebe6ccad12ad2789aea7</md5>
+  </step>
+  </download>
+  </Firmware>
